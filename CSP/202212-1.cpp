@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cmath>
+#include<cmath>  //幂次方函数是pow(x,y)，头文件是cmath
 using namespace std;
 int main()
 {
