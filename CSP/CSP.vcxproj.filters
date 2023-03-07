@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="202212-1.cpp">
+    <ClCompile Include="202212-1现值计算.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="202209-1.cpp">
+    <ClCompile Include="202209-1如此编码.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="202206-1.cpp">
+    <ClCompile Include="202206-1归一化处理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="202203-1.cpp">
+    <ClCompile Include="202203-1未初始化警告.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="202112-1.cpp">
+    <ClCompile Include="202112-1序列查询.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="202109-1.cpp">
+    <ClCompile Include="202109-1数组推导.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

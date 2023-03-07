@@ -24,6 +24,7 @@
     <ProjectGuid>{163f03a5-272d-4b60-ae22-5d17211b1c14}</ProjectGuid>
     <RootNamespace>CSP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CCF-CSP</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,12 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="202109-1.cpp" />
-    <ClCompile Include="202112-1.cpp" />
-    <ClCompile Include="202203-1.cpp" />
-    <ClCompile Include="202206-1.cpp" />
-    <ClCompile Include="202209-1.cpp" />
-    <ClCompile Include="202212-1.cpp" />
+    <ClCompile Include="202109-1数组推导.cpp" />
+    <ClCompile Include="202112-1序列查询.cpp" />
+    <ClCompile Include="202203-1未初始化警告.cpp" />
+    <ClCompile Include="202206-1归一化处理.cpp" />
+    <ClCompile Include="202209-1如此编码.cpp" />
+    <ClCompile Include="202212-1现值计算.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
