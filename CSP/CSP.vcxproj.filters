@@ -33,5 +33,8 @@
     <ClCompile Include="202109-1数组推导.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="202012-1期末预测之安全指数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

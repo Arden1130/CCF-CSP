@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="202012-1期末预测之安全指数.cpp" />
     <ClCompile Include="202109-1数组推导.cpp" />
     <ClCompile Include="202112-1序列查询.cpp" />
     <ClCompile Include="202203-1未初始化警告.cpp" />
