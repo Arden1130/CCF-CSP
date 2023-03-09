@@ -36,5 +36,8 @@
     <ClCompile Include="202012-1期末预测之安全指数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="202104-1灰度直方图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
