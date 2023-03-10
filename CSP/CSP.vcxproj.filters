@@ -42,5 +42,8 @@
     <ClCompile Include="202009-1称检测点查询.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201912-1报数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
