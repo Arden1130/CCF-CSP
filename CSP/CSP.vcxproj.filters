@@ -45,5 +45,8 @@
     <ClCompile Include="201912-1报数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="202006-1线性分类器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
