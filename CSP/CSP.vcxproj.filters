@@ -54,5 +54,11 @@
     <ClCompile Include="201903-1小中大.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201812-1小明上学.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201809-1卖菜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

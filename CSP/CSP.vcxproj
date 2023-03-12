@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201809-1卖菜.cpp" />
+    <ClCompile Include="201812-1小明上学.cpp" />
     <ClCompile Include="201903-1小中大.cpp" />
     <ClCompile Include="201909-1小明种苹果.cpp" />
     <ClCompile Include="201912-1报数.cpp" />
