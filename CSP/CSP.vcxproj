@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201712-1最小差值.cpp" />
+    <ClCompile Include="201803-1跳一跳.cpp" />
     <ClCompile Include="201809-1卖菜.cpp" />
     <ClCompile Include="201812-1小明上学.cpp" />
     <ClCompile Include="201903-1小中大.cpp" />

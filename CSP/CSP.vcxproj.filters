@@ -60,5 +60,11 @@
     <ClCompile Include="201809-1卖菜.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201803-1跳一跳.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712-1最小差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
