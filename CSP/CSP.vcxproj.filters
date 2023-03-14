@@ -78,5 +78,11 @@
     <ClCompile Include="201609-1最大波动.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201604-1折点计数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201512-1数位之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
