@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201709-1打酱油.cpp" />
     <ClCompile Include="201712-1最小差值.cpp" />
     <ClCompile Include="201803-1跳一跳.cpp" />
     <ClCompile Include="201809-1卖菜.cpp" />
