@@ -72,5 +72,8 @@
     <ClCompile Include="201703-1分蛋糕.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201612-1中间数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
