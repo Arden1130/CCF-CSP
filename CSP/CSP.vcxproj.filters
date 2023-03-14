@@ -75,5 +75,8 @@
     <ClCompile Include="201612-1中间数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201609-1最大波动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
