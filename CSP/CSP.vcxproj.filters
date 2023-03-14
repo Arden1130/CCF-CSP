@@ -69,5 +69,8 @@
     <ClCompile Include="201709-1打酱油.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201703-1分蛋糕.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
