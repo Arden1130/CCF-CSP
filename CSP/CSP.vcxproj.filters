@@ -84,5 +84,11 @@
     <ClCompile Include="201512-1数位之和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201509-1数列分段.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201503-1图像旋转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

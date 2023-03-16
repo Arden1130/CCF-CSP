@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201503-1图像旋转.cpp" />
+    <ClCompile Include="201509-1数列分段.cpp" />
     <ClCompile Include="201512-1数位之和.cpp" />
     <ClCompile Include="201604-1折点计数.cpp" />
     <ClCompile Include="201609-1最大波动.cpp" />
