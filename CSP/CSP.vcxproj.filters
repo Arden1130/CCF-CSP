@@ -90,5 +90,11 @@
     <ClCompile Include="201503-1图像旋转.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201412-1门禁系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201409-1相邻数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
