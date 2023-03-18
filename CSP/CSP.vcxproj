@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201312-1出现次数最多的数.cpp" />
+    <ClCompile Include="201403-1相反数.cpp" />
     <ClCompile Include="201409-1相邻数对.cpp" />
     <ClCompile Include="201412-1门禁系统.cpp" />
     <ClCompile Include="201503-1图像旋转.cpp" />

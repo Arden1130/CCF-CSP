@@ -96,5 +96,11 @@
     <ClCompile Include="201409-1相邻数对.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201403-1相反数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201312-1出现次数最多的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
