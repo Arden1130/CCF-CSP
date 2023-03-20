@@ -145,6 +145,7 @@
     <ClCompile Include="201403-1相反数.cpp" />
     <ClCompile Include="201403-2窗口.cpp" />
     <ClCompile Include="201409-1相邻数对.cpp" />
+    <ClCompile Include="201409-2画图.cpp" />
     <ClCompile Include="201412-1门禁系统.cpp" />
     <ClCompile Include="201503-1图像旋转.cpp" />
     <ClCompile Include="201509-1数列分段.cpp" />
