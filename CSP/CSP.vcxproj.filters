@@ -105,5 +105,8 @@
     <ClCompile Include="201312-2ISBN号码.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201403-2窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
