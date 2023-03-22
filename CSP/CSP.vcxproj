@@ -147,7 +147,9 @@
     <ClCompile Include="201409-1相邻数对.cpp" />
     <ClCompile Include="201409-2画图.cpp" />
     <ClCompile Include="201412-1门禁系统.cpp" />
+    <ClCompile Include="201412-2Z字形扫描.cpp" />
     <ClCompile Include="201503-1图像旋转.cpp" />
+    <ClCompile Include="201503-2数字排序.cpp" />
     <ClCompile Include="201509-1数列分段.cpp" />
     <ClCompile Include="201512-1数位之和.cpp" />
     <ClCompile Include="201604-1折点计数.cpp" />

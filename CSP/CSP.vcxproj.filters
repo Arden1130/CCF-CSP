@@ -111,5 +111,11 @@
     <ClCompile Include="201409-2画图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201412-2Z字形扫描.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201503-2数字排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
