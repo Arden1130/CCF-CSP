@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -153,6 +153,7 @@
     <ClCompile Include="201509-1数列分段.cpp" />
     <ClCompile Include="201509-2日期计算.cpp" />
     <ClCompile Include="201512-1数位之和.cpp" />
+    <ClCompile Include="201512-2消除类游戏.cpp" />
     <ClCompile Include="201604-1折点计数.cpp" />
     <ClCompile Include="201609-1最大波动.cpp" />
     <ClCompile Include="201612-1中间数.cpp" />
