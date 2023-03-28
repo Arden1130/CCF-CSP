@@ -156,6 +156,7 @@
     <ClCompile Include="201512-2消除类游戏.cpp" />
     <ClCompile Include="201604-1折点计数.cpp" />
     <ClCompile Include="201609-1最大波动.cpp" />
+    <ClCompile Include="201609-2火车购票.cpp" />
     <ClCompile Include="201612-1中间数.cpp" />
     <ClCompile Include="201703-1分蛋糕.cpp" />
     <ClCompile Include="201709-1打酱油.cpp" />
