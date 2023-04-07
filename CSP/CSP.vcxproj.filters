@@ -126,5 +126,8 @@
     <ClCompile Include="201609-2火车购票.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201604-2俄罗斯方块.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

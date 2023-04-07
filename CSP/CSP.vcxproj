@@ -155,6 +155,7 @@
     <ClCompile Include="201512-1数位之和.cpp" />
     <ClCompile Include="201512-2消除类游戏.cpp" />
     <ClCompile Include="201604-1折点计数.cpp" />
+    <ClCompile Include="201604-2俄罗斯方块.cpp" />
     <ClCompile Include="201609-1最大波动.cpp" />
     <ClCompile Include="201609-2火车购票.cpp" />
     <ClCompile Include="201612-1中间数.cpp" />
