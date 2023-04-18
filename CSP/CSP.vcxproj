@@ -159,6 +159,7 @@
     <ClCompile Include="201609-1最大波动.cpp" />
     <ClCompile Include="201609-2火车购票.cpp" />
     <ClCompile Include="201612-1中间数.cpp" />
+    <ClCompile Include="201612-2工资计算.cpp" />
     <ClCompile Include="201703-1分蛋糕.cpp" />
     <ClCompile Include="201709-1打酱油.cpp" />
     <ClCompile Include="201712-1最小差值.cpp" />
