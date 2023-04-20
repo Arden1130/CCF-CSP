@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main() {//有点繁琐
+int main() {//有点繁琐需要仔细
 	float T, S;
 	cin >> T;
 	if (T <= 3500) {
